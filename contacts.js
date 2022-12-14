@@ -9,7 +9,7 @@ function listContacts() {
 }
 
 function getContactById(contactId) {
-  // ...твой код
+  //
 }
 
 function removeContact(contactId) {
