@@ -6,6 +6,7 @@ const contactsPath = path.resolve("./db/contacts.json");
 // TODO: задокументировать каждую функцию
 function listContacts() {
   // ...твой код
+  // ...твой код
 }
 
 function getContactById(contactId) {
